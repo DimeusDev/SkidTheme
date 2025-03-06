@@ -1,0 +1,18 @@
+/**
+ * @name SkidTheme
+ * @description I took stuff of a lot of theme and made this one.
+ * @author Dimeus
+ * @version 1.0.0
+ * @authorId 210011830628777984
+ * @donate https://www.paypal.me/DimeusRich
+ * @website https://dimeus.dev
+ */
+
+
+ /* Change the background image here*/
+:root {
+    --app-bg: url(https://i.imgur.com/rZRpRuv.gif);
+    --blur-bg: 80px;
+    --brightness-bg: 0.3;
+    --border-main: 1px solid rgba(255, 255, 255, 0.1);
+}
