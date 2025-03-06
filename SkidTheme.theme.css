@@ -8,7 +8,8 @@
  * @website https://dimeus.dev
  */
 
-
+ @import url("https://raw.githubusercontent.com/DimeusDev/SkidTheme/refs/heads/main/SkidTheme.css");
+ 
  /* Change the background image here*/
 :root {
     --app-bg: url(https://i.imgur.com/rZRpRuv.gif);
